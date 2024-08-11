@@ -1,0 +1,5 @@
+---
+title: The Little Prince
+---
+In a distant galaxy, on a tiny asteroid named B-612, lived a thoughtful and curious boy known as the Little Prince. He spent his days tending to his beloved rose and cleaning his three volcanoes, always mindful of the baobab trees that threatened to overrun his home. One day, feeling a deep sense of loneliness, he embarked on a journey across the stars, visiting various planets and meeting peculiar inhabitants like a king, a vain man, and a lamplighter. Each encounter taught him valuable lessons about the nature of adults and the essence of love and responsibility. Eventually, he arrived on Earth, where he befriended a stranded pilot in the Sahara desert. Through their conversations, the Little Prince shared his wisdom, revealing that what is truly important is invisible to the eye and can only be seen with the heart. His journey, filled with wonder and introspection, reminded the pilot—and all who hear his tale—of the simple yet profound truths of life.
+
