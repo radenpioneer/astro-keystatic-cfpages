@@ -1,0 +1,13 @@
+image: gitpod/workspace-bun
+
+vscode:
+  extensions:
+    - astro-build.astro-vscode
+    - sourcegraph.cody-ai
+    - mhutchie.git-graph
+    - github.vscode-github-actions
+    - astro-build.houston
+
+tasks:
+  - init: |
+      bun i --frozen-lockfile
