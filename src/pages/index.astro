@@ -6,17 +6,21 @@ const posts = await getCollection('posts')
 ---
 
 <Layout>
-  <main>
-    <h1>Posts:</h1>
-    <ul>
+  <main class='container-fluid'>
+    <h1>Posts List</h1>
+    <section>
       {
         posts.map((post) => (
-          <li>
-            <a href={`/${post.slug}`}>{post.data.title}</a>
-          </li>
+          <article>
+            <h2>
+              <a href={`/${post.slug}`}>{post.data.title}</a>
+            </h2>
+          </article>
         ))
       }
-    </ul>
-    <p>Created with Keystatic</p>
+    </section>
+    <section>
+      <p><i>Created with Keystatic.</i></p>
+    </section>
   </main>
 </Layout>
