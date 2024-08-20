@@ -15,6 +15,7 @@ const { title } = Astro.props
     <link rel='icon' type='image/svg+xml' href='/favicon.svg' />
     <meta name='viewport' content='width=device-width' />
     <meta name='generator' content={Astro.generator} />
+    <meta name='description' content={`A test Keystatic website on Cloudflare built on ${Astro.generator}`} />
     <title>{title ? `${title} | ${siteTitle}` : siteTitle}</title>
   </head>
   <body>
