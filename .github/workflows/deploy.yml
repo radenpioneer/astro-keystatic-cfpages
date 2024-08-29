@@ -95,4 +95,4 @@ jobs:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
           packageManager: bun
-          command: pages deploy dist --project-name=keystatic-test
+          command: pages deploy dist --project-name=keystatic-test --compatibility-flags="nodejs_compat"
