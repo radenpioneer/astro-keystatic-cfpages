@@ -75,6 +75,7 @@ jobs:
         with:
           sparse-checkout: |
             .bun-version
+            wrangler.toml
           sparse-checkout-cone-mode: false
 
       - name: Setup Bun
